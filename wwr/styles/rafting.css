@@ -29,7 +29,7 @@ h2 {
     color: var(--primary-color)
 }
 
-h1 {
+.hero h1 {
     position: absolute;
     top: 20px;
     width: 100%;
@@ -58,7 +58,7 @@ article {
     height: auto;
 }
 
-.hero article p {
+.hero article {
     position: absolute;
     background-color: darkblue;
     color: white;
