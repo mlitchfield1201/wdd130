@@ -41,6 +41,12 @@ footer {
     align-items: center;
 }
 
+.history {
+    display: grid;
+    grid-template-columns: 42% 1fr 42%;
+    padding-top: 20px;
+}
+
 .pictures {
     display: flex;
     flex-direction: row;
