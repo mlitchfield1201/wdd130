@@ -86,7 +86,7 @@ footer {
 }
 
 ul {
-    padding: 3rem;
+    list-style-type: none;
 }
 
 p {
